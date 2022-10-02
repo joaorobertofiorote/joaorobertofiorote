@@ -1,14 +1,16 @@
-## Olá sou o João Roberto Fiorote
+## Oi eu sou o João Roberto Fiorote
 - Sou um acadêmico de BSI no instituto Faculdades Integradas IESGO.
 - Período: 02º Semestre 01/10/2022
-- Contate-me no email: joaorobertofiorote@gmail.com
 - Estudando HTML e CSS, Python, Arquitetura e organização, empreendendorismo e Gestão da inovação e Medotogia Científica esse semestre
+- Contate-me no email: joaorobertofiorote@gmail.com
 
 <div align="center">
   <a href=https://github.com/joaorobertofiorote">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=joaorobertofiorote&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorobertofiorote&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaorobertofiorote&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorobertofiorote&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+## Tecnologias que estudo diariamente
 
 <div style="display: inline_block"><br>
 
@@ -23,7 +25,7 @@
 
   ![Animação de cobra](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
-  ##
+  ## Contate-me
  
 <div>
 
