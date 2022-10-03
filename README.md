@@ -1,6 +1,6 @@
 ## Oi eu sou o João Roberto Fiorote
 - Desenvolvedor Júnior
-- Sou acadêmico de BSI no instituto Faculdades Integradas IESGO.
+- Acadêmico de BSI no instituto Faculdades Integradas IESGO.
 - Período: 02º Semestre 01/10/2022
 - Estudando HTML e CSS, Python, Arquitetura e organização, empreendendorismo e Medotogia Científica esse semestre.
 - Contate-me no email: joaorobertofiorote@gmail.com
