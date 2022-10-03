@@ -1,7 +1,8 @@
 ## Oi eu sou o João Roberto Fiorote
-- Sou um acadêmico de BSI no instituto Faculdades Integradas IESGO.
+- Desenvolvedor Júnior
+- Sou acadêmico de BSI no instituto Faculdades Integradas IESGO.
 - Período: 02º Semestre 01/10/2022
-- Estudando HTML e CSS, Python, Arquitetura e organização, empreendendorismo e Gestão da inovação e Medotogia Científica esse semestre
+- Estudando HTML e CSS, Python, Arquitetura e organização, empreendendorismo e Medotogia Científica esse semestre.
 - Contate-me no email: joaorobertofiorote@gmail.com
 
 <div align="center">
@@ -14,11 +15,11 @@
 
 <div style="display: inline_block"><br>
 
-  <img align="center" height="35" width="60" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" height="35" width="60" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" height="35" width="60" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" height="35" width="60" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" height="35" width="60" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" height="29" width="70" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" height="29" width="70" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" height="29" width="70" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" height="29" width="70" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" height="29" width="70" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 <img align=centertps://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 
 </div>
